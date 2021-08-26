@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {}
+    "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj": {
+    "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectUniqueName": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
         "projectName": "Play.Catalog.Service",
-        "projectPath": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+        "projectPath": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+        "outputPath": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",

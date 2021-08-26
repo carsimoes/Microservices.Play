@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8EGdqffcb5+xX4Fe5jbRvgZpyPjtGoZbJcztBQj75xuJAGpFQFDj9vmU39AsYyuwOblcrSKOuBtjKalu4mOJGg==",
+  "dgSpecHash": "SzKbhISFlNaJTr/s6v5XPNdJ1iAlgAhue2iLwCevSDy4Ex0rLwJYMWmWIG+p4g2ibtNXAosdkZUyVAZeAHIpyQ==",
   "success": true,
-  "projectFilePath": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+  "projectFilePath": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

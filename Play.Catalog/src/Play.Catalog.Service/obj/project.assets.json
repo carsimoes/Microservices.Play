@@ -5312,11 +5312,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "projectUniqueName": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
       "projectName": "Play.Catalog.Service",
-      "projectPath": "c:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+      "projectPath": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\Play.Catalog.Service.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "c:\\Git\\Microservices.Play\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\",
+      "outputPath": "C:\\Git\\Microservices.Play\\Play.Catalog\\src\\play.catalog.service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
