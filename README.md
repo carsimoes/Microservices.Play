@@ -18,3 +18,6 @@ docker compose up
 dotnet new webapi -n Play.Inventory.Service
 dotnet add package Play.Common
 
+rabbitmq
+user:guest
+password:guest
