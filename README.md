@@ -18,6 +18,6 @@ docker compose up
 dotnet new webapi -n Play.Inventory.Service
 dotnet add package Play.Common
 
-rabbitmq
+rabbitmq (http://localhost:15672/)
 user:guest
 password:guest
