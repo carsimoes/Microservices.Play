@@ -58,7 +58,7 @@ namespace Play.Inventory.Service
                     builder.WithOrigins(Configuration[AllowedOriginSetting])
                         .AllowAnyHeader()
                         .AllowAnyMethod();
-                });
+                });                
             }
 
             app.UseHttpsRedirection();

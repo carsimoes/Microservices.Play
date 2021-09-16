@@ -21,7 +21,7 @@ export class Home extends Component
         <ul>
           <li>Manage the <a href={window.RABBITMQ_URL} target="_blank" rel="noreferrer">message queues</a></li>
           <li>Explore the Open API documentation:
-          <ul>
+            <ul>
               <li><a href={`${window.CATALOG_SERVICE_URL}/swagger`} target="_blank" rel="noreferrer">Catalog service</a></li>
               <li><a href={`${window.INVENTORY_SERVICE_URL}/swagger`} target="_blank" rel="noreferrer">Inventory service</a></li>
             </ul>
@@ -33,9 +33,7 @@ export class Home extends Component
           <li><a href='https://www.docker.com'>Docker</a> for services containerization</li>
           <li><a href='https://www.mongodb.com'>MongoDB</a> for database storage</li>
           <li><a href='https://www.rabbitmq.com'>RabbitMQ</a> and <a href='https://masstransit-project.com'>MassTransit</a> for message-based asynchronous communication</li>
-          <li><a href='https://github.com/domaindrivendev/Swashbuckle.AspNetCore'>Swashbuckle</a> for Open API documentation</li>
-          <li><a href='https://facebook.github.io/react/'>React</a> for client-side code</li>
-          <li><a href='http://getbootstrap.com/'>Bootstrap</a> for layout and styling</li>
+          <li><a href='https://facebook.github.io/react/'>React</a> for client-side rendering and <a href='http://getbootstrap.com/'>Bootstrap</a> for layout and styling</li>
         </ul>
       </div>
     );
