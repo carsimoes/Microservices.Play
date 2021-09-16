@@ -1,23 +1,3 @@
-# Microservices.Play
+# Microservices architectures with REST APIs, C#, ASP.NET Core, MongoDB, RabbitMQ and Docker
 
-dotnet --info
-C# extensions vscode
 
-docker run -d --rm --name mongo -p 27017:27017 -v mongodbdata:/data/db mongo
-
-dotnet pack -o ..\..\..\packages\
-dotnet nuget add source C:\Git\Microservices.Play\packages -n PlayEconomy
-
-dotnet add package Play.Commond
-
-docker ps
-docker stop mongo
-
-docker compose up
-
-dotnet new webapi -n Play.Inventory.Service
-dotnet add package Play.Common
-
-rabbitmq (http://localhost:15672/)
-user:guest
-password:guest
